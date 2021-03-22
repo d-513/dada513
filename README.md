@@ -10,6 +10,6 @@ I like minecraft
 ### Contact
 
 <p>
-  <img src="https://i.imgur.com/zE0t9yd.png" width="32" />
+  <img src="https://i.imgur.com/zE0t9yd.png" width="32" /> <br />
   <b>Discord</b>: dada513#2678
 </p>
