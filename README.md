@@ -6,3 +6,10 @@
 <h1 align="center">Hello</h1>
 
 I like minecraft
+
+### Contact
+
+<p>
+  <img src="https://i.imgur.com/zE0t9yd.png" width="32" />
+  *Discord*: dada513#2678
+</p>
