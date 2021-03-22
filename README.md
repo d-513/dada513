@@ -12,4 +12,6 @@ I like minecraft
 <p>
   <img src="https://i.imgur.com/zE0t9yd.png" width="32" /> <br />
   <b>Discord</b>: dada513#2678
+  <img src="https://icongr.am/fontawesome/envelope-o.svg?size=32&color=2198c0" width="32" /> <br />
+  <b>Mail</b>: dada513@protonmail.com
 </p>
