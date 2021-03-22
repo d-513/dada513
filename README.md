@@ -11,5 +11,5 @@ I like minecraft
 
 <p>
   <img src="https://i.imgur.com/zE0t9yd.png" width="32" />
-  *Discord*: dada513#2678
+  <b>Discord</b>: dada513#2678
 </p>
