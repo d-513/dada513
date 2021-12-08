@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Initial post"
+date: 2021-12-08 13:07:44 +0100
+categories: jekyll update
+---
+
+Setting up the site
