@@ -34,6 +34,7 @@
 ## 📘 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Initial post](/jekyll/update/2021/12/08/init.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🟢 Latest activity
