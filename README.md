@@ -40,6 +40,11 @@
 ## 🟢 Latest activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Reopened issue [#1](https://github.com/dada513/LunarClient-Linux/issues/1) in [dada513/LunarClient-Linux](https://github.com/dada513/LunarClient-Linux)
+2. ❗️ Closed issue [#1](https://github.com/dada513/LunarClient-Linux/issues/1) in [dada513/LunarClient-Linux](https://github.com/dada513/LunarClient-Linux)
+3. ❌ Closed PR [#1](https://github.com/dada513/duckduckscrape/pull/1) in [dada513/duckduckscrape](https://github.com/dada513/duckduckscrape)
+4. ❌ Closed PR [#1](https://github.com/dada513/subreddit-avatar-image/pull/1) in [dada513/subreddit-avatar-image](https://github.com/dada513/subreddit-avatar-image)
+5. ❌ Closed PR [#1](https://github.com/dada513/wikipedia-search/pull/1) in [dada513/wikipedia-search](https://github.com/dada513/wikipedia-search)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
