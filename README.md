@@ -34,7 +34,6 @@
 ## 📘 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Initial post](https://d513.space/jekyll/update/2021/12/08/init.html)
 <!-- BLOG-POST-LIST:END -->
 
