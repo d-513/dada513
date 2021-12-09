@@ -22,7 +22,7 @@ title: d513.space blog
 description: >- # this means to ignore newlines until "baseurl:"
   A blog with some random tech projects
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://d513.space" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: dada513
 
 # Build settings
