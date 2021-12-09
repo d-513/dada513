@@ -3,20 +3,44 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dada513&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
 </p>
 
-<h1 align="center">🖥️ dada513</h1>
+# dada513
 
-### Contact
+## 📨 Contact
 
-<p>
-  <img src="https://i.imgur.com/zE0t9yd.png" width="32" /> <br />
-  <b>Discord</b>: dada513#2678 <br />
-  <img src="https://icongr.am/fontawesome/envelope-o.svg?size=32&color=2198c0" width="32" /> <br />
-  <b>Mail</b>: dada513@protonmail.com
-</p>
+[![discord_logo](https://icongr.am/material/discord.svg)](https://google.com)
+[![mail_icon](https://icongr.am/material/email.svg)](htt)
+[![github_logo](https://icongr.am/material/github.svg)](https://github.com/dada513)
+[![steam_logo](https://icongr.am/material/steam.svg)](http://steamcommunity.com/profiles/76561198966378927)
 
-### Latest posts 📘
+## 🖥️ Languages & tools
+
+![typescript](https://icongr.am/devicon/typescript-original.svg)
+![javascript](https://icongr.am/devicon/javascript-original.svg)
+![html](https://icongr.am/devicon/html5-original.svg)
+![css](https://icongr.am/devicon/css3-original.svg)
+![java](https://icongr.am/devicon/java-original.svg)
+![nodejs](https://icongr.am/devicon/nodejs-original.svg)
+![linux](https://icongr.am/devicon/linux-original.svg)
+![ubuntu](https://icongr.am/devicon/ubuntu-plain.svg)
+![nginx](https://icongr.am/devicon/nginx-original.svg)
+![mongodb](https://icongr.am/devicon/mongodb-original-wordmark.svg)
+![mysql](https://icongr.am/devicon/mysql-original-wordmark.svg)
+![react](https://icongr.am/devicon/react-original.svg)
+![express](https://icongr.am/devicon/express-original-wordmark.svg)
+![docker](https://icongr.am/devicon/docker-original.svg)
+![gitlab](https://icongr.am/devicon/gitlab-original.svg)
+![webpack](https://icongr.am/devicon/webpack-original.svg)
+
+## 📘 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-###
+## 🟢 Latest activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🔌 Current Projects
+
+- [BotCommander](https://github.com/dada513/botcommander) - A framework for creating discord bots
