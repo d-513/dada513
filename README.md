@@ -7,8 +7,8 @@
 
 ## 📨 Contact
 
-[![discord_logo](https://icongr.am/material/discord.svg)](https://google.com)
-[![mail_icon](https://icongr.am/material/email.svg)](htt)
+[![discord_logo](https://icongr.am/material/discord.svg)](./discord.md)
+[![mail_icon](https://icongr.am/material/email.svg)](mailto:dada513@protonmail.com)
 [![github_logo](https://icongr.am/material/github.svg)](https://github.com/dada513)
 [![steam_logo](https://icongr.am/material/steam.svg)](http://steamcommunity.com/profiles/76561198966378927)
 
@@ -34,6 +34,7 @@
 ## 📘 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Initial post](/jekyll/update/2021/12/08/init.html)
 <!-- BLOG-POST-LIST:END -->
 
