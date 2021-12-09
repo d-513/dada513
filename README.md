@@ -34,7 +34,8 @@
 ## 📘 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Initial post](https://d513.space/jekyll/update/2021/12/08/init.html)
+- [Raspberry PI USB issues - it’s probably not the software’s fault](https://d513.space/raspberry/2021/12/09/raspberry-pi-power-fix.html)
+- [Initial post](https://d513.space/2021/12/08/init.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🟢 Latest activity
