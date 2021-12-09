@@ -1,4 +1,4 @@
-name: Update README
+name: GitHub activity workflow
 
 on:
   schedule:
