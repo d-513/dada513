@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#109](https://github.com/haveachin/infrared/issues/109) in [haveachin/infrared](https://github.com/haveachin/infrared)
-2. 🗣 Commented on [#110](https://github.com/haveachin/infrared/issues/110) in [haveachin/infrared](https://github.com/haveachin/infrared)
-3. ❗️ Opened issue [#110](https://github.com/haveachin/infrared/issues/110) in [haveachin/infrared](https://github.com/haveachin/infrared)
-4. ❗️ Opened issue [#109](https://github.com/haveachin/infrared/issues/109) in [haveachin/infrared](https://github.com/haveachin/infrared)
-5. ❗️ Reopened issue [#1](https://github.com/dada513/LunarClient-Linux/issues/1) in [dada513/LunarClient-Linux](https://github.com/dada513/LunarClient-Linux)
+1. ❗️ Closed issue [#110](https://github.com/haveachin/infrared/issues/110) in [haveachin/infrared](https://github.com/haveachin/infrared)
+2. ❗️ Closed issue [#109](https://github.com/haveachin/infrared/issues/109) in [haveachin/infrared](https://github.com/haveachin/infrared)
+3. 🗣 Commented on [#110](https://github.com/haveachin/infrared/issues/110) in [haveachin/infrared](https://github.com/haveachin/infrared)
+4. ❗️ Opened issue [#110](https://github.com/haveachin/infrared/issues/110) in [haveachin/infrared](https://github.com/haveachin/infrared)
+5. ❗️ Opened issue [#109](https://github.com/haveachin/infrared/issues/109) in [haveachin/infrared](https://github.com/haveachin/infrared)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
