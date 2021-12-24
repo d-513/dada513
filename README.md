@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
-2. 🗣 Commented on [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
-3. ❗️ Opened issue [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
-4. ❌ Closed PR [#408](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/408) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-5. 🗣 Commented on [#408](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/408) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+1. 🗣 Commented on [#411](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/411) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+2. ❗️ Closed issue [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
+3. 🗣 Commented on [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
+4. ❗️ Opened issue [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
+5. ❌ Closed PR [#408](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/408) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
