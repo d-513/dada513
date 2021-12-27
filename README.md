@@ -43,10 +43,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#3](https://github.com/PolyMC/PolyMC/issues/3) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-2. 🗣 Commented on [#411](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/411) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-3. ❗️ Closed issue [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
-4. 🗣 Commented on [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
-5. ❗️ Opened issue [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
+2. 🗣 Commented on [#3](https://github.com/PolyMC/PolyMC/issues/3) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. 🗣 Commented on [#411](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/411) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+4. ❗️ Closed issue [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
+5. 🗣 Commented on [#104](https://github.com/Weilbyte/PVEDiscordDark/issues/104) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
