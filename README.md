@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/PolyMC/PolyMC/issues/7) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-2. 🗣 Commented on [#7](https://github.com/PolyMC/PolyMC/issues/7) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. 🗣 Commented on [#9](https://github.com/PolyMC/PolyMC/issues/9) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-4. 🗣 Commented on [#1](https://github.com/PolyMC/PolyMC/issues/1) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-5. 🗣 Commented on [#9](https://github.com/PolyMC/PolyMC/issues/9) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. ❗️ Closed issue [#150](https://github.com/PrismarineJS/prismarine-web-client/issues/150) in [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client)
+2. ❗️ Closed issue [#1](https://github.com/dada513/LunarClient-Linux/issues/1) in [dada513/LunarClient-Linux](https://github.com/dada513/LunarClient-Linux)
+3. ❗️ Closed issue [#87](https://github.com/1chiSensei/largest-package/issues/87) in [1chiSensei/largest-package](https://github.com/1chiSensei/largest-package)
+4. 🗣 Commented on [#7](https://github.com/PolyMC/PolyMC/issues/7) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 🗣 Commented on [#7](https://github.com/PolyMC/PolyMC/issues/7) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
