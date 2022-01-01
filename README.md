@@ -46,7 +46,7 @@
 2. 🗣 Commented on [#2721](https://github.com/flathub/flathub/issues/2721) in [flathub/flathub](https://github.com/flathub/flathub)
 3. 🗣 Commented on [#2721](https://github.com/flathub/flathub/issues/2721) in [flathub/flathub](https://github.com/flathub/flathub)
 4. 🗣 Commented on [#2721](https://github.com/flathub/flathub/issues/2721) in [flathub/flathub](https://github.com/flathub/flathub)
-5. ❗️ Closed issue [#11](https://github.com/dada513/Discordio/issues/11) in [dada513/Discordio](https://github.com/dada513/Discordio)
+5. 🗣 Commented on [#2721](https://github.com/flathub/flathub/issues/2721) in [flathub/flathub](https://github.com/flathub/flathub)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
