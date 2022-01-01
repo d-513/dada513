@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2721](https://github.com/flathub/flathub/pull/2721) in [flathub/flathub](https://github.com/flathub/flathub)
-2. 💪 Opened PR [#10](https://github.com/PolyMC/PolyMC/pull/10) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. 🗣 Commented on [#8](https://github.com/PolyMC/PolyMC/issues/8) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-4. ❗️ Opened issue [#9](https://github.com/PolyMC/PolyMC/issues/9) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-5. 🗣 Commented on [#8](https://github.com/PolyMC/PolyMC/issues/8) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. 🗣 Commented on [#9](https://github.com/PolyMC/PolyMC/issues/9) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+2. 🗣 Commented on [#7](https://github.com/PolyMC/PolyMC/issues/7) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. ❌ Closed PR [#10](https://github.com/PolyMC/PolyMC/pull/10) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+4. 🗣 Commented on [#10](https://github.com/PolyMC/PolyMC/issues/10) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 💪 Opened PR [#2721](https://github.com/flathub/flathub/pull/2721) in [flathub/flathub](https://github.com/flathub/flathub)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
