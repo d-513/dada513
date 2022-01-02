@@ -42,7 +42,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2721](https://github.com/flathub/flathub/issues/2721) in [flathub/flathub](https://github.com/flathub/flathub)
+1. 🗣 Commented on [#7](https://github.com/PolyMC/PolyMC/issues/7) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 2. 🗣 Commented on [#2721](https://github.com/flathub/flathub/issues/2721) in [flathub/flathub](https://github.com/flathub/flathub)
 3. 🗣 Commented on [#2721](https://github.com/flathub/flathub/issues/2721) in [flathub/flathub](https://github.com/flathub/flathub)
 4. 🗣 Commented on [#2721](https://github.com/flathub/flathub/issues/2721) in [flathub/flathub](https://github.com/flathub/flathub)
