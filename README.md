@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#288](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/288) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-2. ❗️ Opened issue [#9](https://github.com/StopModReposts/Extension/issues/9) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
-3. 🗣 Commented on [#299](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/299) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-4. 🗣 Commented on [#5](https://github.com/PolyMC/PolyMC/issues/5) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-5. ❗️ Opened issue [#426](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/426) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+1. 🎉 Merged PR [#424](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/424) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+2. 🗣 Commented on [#288](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/288) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+3. ❗️ Opened issue [#9](https://github.com/StopModReposts/Extension/issues/9) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
+4. 🗣 Commented on [#299](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/299) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+5. 🗣 Commented on [#5](https://github.com/PolyMC/PolyMC/issues/5) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
