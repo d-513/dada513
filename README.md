@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#428](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/428) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-2. 🎉 Merged PR [#427](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/427) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-3. 🗣 Commented on [#427](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/427) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-4. 💪 Opened PR [#427](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/427) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-5. 🎉 Merged PR [#424](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/424) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+1. 🎉 Merged PR [#1](https://github.com/flathub/org.polymc.PolyMC/pull/1) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
+2. 💪 Opened PR [#1](https://github.com/flathub/org.polymc.PolyMC/pull/1) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
+3. 💪 Opened PR [#428](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/428) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+4. 🎉 Merged PR [#427](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/427) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+5. 🗣 Commented on [#427](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/427) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
