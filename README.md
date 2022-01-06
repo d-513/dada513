@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#19](https://github.com/PolyMC/PolyMC/issues/19) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. ❌ Closed PR [#19](https://github.com/PolyMC/PolyMC/pull/19) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 2. 🗣 Commented on [#19](https://github.com/PolyMC/PolyMC/issues/19) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. 🗣 Commented on [#1](https://github.com/PolyMC/PolyMC/issues/1) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. 🗣 Commented on [#423](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/423) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
 4. 🗣 Commented on [#19](https://github.com/PolyMC/PolyMC/issues/19) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-5. 💪 Opened PR [#19](https://github.com/PolyMC/PolyMC/pull/19) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 🗣 Commented on [#19](https://github.com/PolyMC/PolyMC/issues/19) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
