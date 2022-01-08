@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/PolyMC/PolyMC/issues/1) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-2. 🗣 Commented on [#1](https://github.com/PolyMC/PolyMC/issues/1) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. 🗣 Commented on [#1](https://github.com/PolyMC/PolyMC/issues/1) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-4. 🗣 Commented on [#72](https://github.com/vincss/mcsleepingserverstarter/issues/72) in [vincss/mcsleepingserverstarter](https://github.com/vincss/mcsleepingserverstarter)
-5. ❗️ Opened issue [#13](https://github.com/StopModReposts/Extension/issues/13) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
+1. 🗣 Commented on [#26](https://github.com/PolyMC/PolyMC/issues/26) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+2. 🗣 Commented on [#26](https://github.com/PolyMC/PolyMC/issues/26) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. 🗣 Commented on [#26](https://github.com/PolyMC/PolyMC/issues/26) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+4. 🗣 Commented on [#26](https://github.com/PolyMC/PolyMC/issues/26) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 🗣 Commented on [#1](https://github.com/PolyMC/PolyMC/issues/1) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
