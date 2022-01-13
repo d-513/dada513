@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2762](https://github.com/fatedier/frp/issues/2762) in [fatedier/frp](https://github.com/fatedier/frp)
-2. 🗣 Commented on [#402](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/402) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-3. 🗣 Commented on [#402](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/402) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-4. 🗣 Commented on [#443](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/443) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-5. 🗣 Commented on [#53](https://github.com/PolyMC/PolyMC/issues/53) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. ❗️ Opened issue [#18](https://github.com/StopModReposts/Extension/issues/18) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
+2. 🗣 Commented on [#17](https://github.com/StopModReposts/Extension/issues/17) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
+3. ❗️ Opened issue [#2762](https://github.com/fatedier/frp/issues/2762) in [fatedier/frp](https://github.com/fatedier/frp)
+4. 🗣 Commented on [#402](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/402) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+5. 🗣 Commented on [#402](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/402) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
