@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16](https://github.com/StopModReposts/Extension/issues/16) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
-2. 🗣 Commented on [#50](https://github.com/PolyMC/PolyMC/issues/50) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. 🗣 Commented on [#50](https://github.com/PolyMC/PolyMC/issues/50) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. 🗣 Commented on [#53](https://github.com/PolyMC/PolyMC/issues/53) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+2. ❗️ Opened issue [#60](https://github.com/PolyMC/PolyMC/issues/60) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. 🗣 Commented on [#16](https://github.com/StopModReposts/Extension/issues/16) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
 4. 🗣 Commented on [#50](https://github.com/PolyMC/PolyMC/issues/50) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-5. 🗣 Commented on [#51](https://github.com/PolyMC/PolyMC/issues/51) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 🗣 Commented on [#50](https://github.com/PolyMC/PolyMC/issues/50) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
