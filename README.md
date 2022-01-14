@@ -14,7 +14,7 @@
 
 ## 🖥️ Languages & tools
 
-![golang](https://icongr.am/devicon/go-plain.svg)
+![golang](https://icongr.am/devicon/go-line.svg)
 ![typescript](https://icongr.am/devicon/typescript-original.svg)
 ![javascript](https://icongr.am/devicon/javascript-original.svg)
 ![html](https://icongr.am/devicon/html5-original.svg)
