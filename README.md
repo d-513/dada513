@@ -43,11 +43,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#41](https://github.com/PolyMC/PolyMC/issues/41) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-2. 🗣 Commented on [#14](https://github.com/StopModReposts/Splash-Screen-Mod/issues/14) in [StopModReposts/Splash-Screen-Mod](https://github.com/StopModReposts/Splash-Screen-Mod)
-3. 🗣 Commented on [#288](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/288) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-4. 🗣 Commented on [#51](https://github.com/PolyMC/PolyMC/issues/51) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-5. 🗣 Commented on [#51](https://github.com/PolyMC/PolyMC/issues/51) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. 🗣 Commented on [#71](https://github.com/PolyMC/PolyMC/issues/71) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+2. ❗️ Opened issue [#74](https://github.com/PolyMC/PolyMC/issues/74) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. 🗣 Commented on [#71](https://github.com/PolyMC/PolyMC/issues/71) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+4. 🗣 Commented on [#41](https://github.com/PolyMC/PolyMC/issues/41) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 🗣 Commented on [#14](https://github.com/StopModReposts/Splash-Screen-Mod/issues/14) in [StopModReposts/Splash-Screen-Mod](https://github.com/StopModReposts/Splash-Screen-Mod)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
