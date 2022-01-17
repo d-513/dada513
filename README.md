@@ -43,11 +43,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#50](https://github.com/PolyMC/PolyMC/issues/50) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-2. ❗️ Opened issue [#5](https://github.com/flathub/org.polymc.PolyMC/issues/5) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
-3. ❌ Closed PR [#6](https://github.com/dada513/botcommander/pull/6) in [dada513/botcommander](https://github.com/dada513/botcommander)
-4. 💪 Opened PR [#76](https://github.com/PolyMC/PolyMC/pull/76) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-5. ❗️ Opened issue [#75](https://github.com/PolyMC/PolyMC/issues/75) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. 🗣 Commented on [#42](https://github.com/PolyMC/PolyMC/issues/42) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+2. 🗣 Commented on [#50](https://github.com/PolyMC/PolyMC/issues/50) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. ❗️ Opened issue [#5](https://github.com/flathub/org.polymc.PolyMC/issues/5) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
+4. ❌ Closed PR [#6](https://github.com/dada513/botcommander/pull/6) in [dada513/botcommander](https://github.com/dada513/botcommander)
+5. 💪 Opened PR [#76](https://github.com/PolyMC/PolyMC/pull/76) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
