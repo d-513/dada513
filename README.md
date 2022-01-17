@@ -43,11 +43,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16](https://github.com/Admicos/minecraft-wayland/issues/16) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
-2. 🗣 Commented on [#42](https://github.com/PolyMC/PolyMC/issues/42) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. 🗣 Commented on [#50](https://github.com/PolyMC/PolyMC/issues/50) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-4. ❗️ Opened issue [#5](https://github.com/flathub/org.polymc.PolyMC/issues/5) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
-5. ❌ Closed PR [#6](https://github.com/dada513/botcommander/pull/6) in [dada513/botcommander](https://github.com/dada513/botcommander)
+1. ❗️ Opened issue [#17](https://github.com/Admicos/minecraft-wayland/issues/17) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
+2. 🗣 Commented on [#16](https://github.com/Admicos/minecraft-wayland/issues/16) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
+3. 🗣 Commented on [#42](https://github.com/PolyMC/PolyMC/issues/42) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+4. 🗣 Commented on [#50](https://github.com/PolyMC/PolyMC/issues/50) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. ❗️ Opened issue [#5](https://github.com/flathub/org.polymc.PolyMC/issues/5) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
