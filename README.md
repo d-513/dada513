@@ -43,11 +43,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#17](https://github.com/Admicos/minecraft-wayland/issues/17) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
-2. 🗣 Commented on [#17](https://github.com/Admicos/minecraft-wayland/issues/17) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
-3. ❗️ Opened issue [#17](https://github.com/Admicos/minecraft-wayland/issues/17) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
-4. 🗣 Commented on [#16](https://github.com/Admicos/minecraft-wayland/issues/16) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
-5. 🗣 Commented on [#42](https://github.com/PolyMC/PolyMC/issues/42) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. 🗣 Commented on [#86](https://github.com/PolyMC/PolyMC/issues/86) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+2. ❗️ Closed issue [#17](https://github.com/Admicos/minecraft-wayland/issues/17) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
+3. 🗣 Commented on [#17](https://github.com/Admicos/minecraft-wayland/issues/17) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
+4. ❗️ Opened issue [#17](https://github.com/Admicos/minecraft-wayland/issues/17) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
+5. 🗣 Commented on [#16](https://github.com/Admicos/minecraft-wayland/issues/16) in [Admicos/minecraft-wayland](https://github.com/Admicos/minecraft-wayland)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
