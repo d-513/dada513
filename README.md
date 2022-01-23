@@ -43,11 +43,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
-2. 🎉 Merged PR [#21](https://github.com/StopModReposts/Extension/pull/21) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
-3. 🗣 Commented on [#2784](https://github.com/flathub/flathub/issues/2784) in [flathub/flathub](https://github.com/flathub/flathub)
-4. 🗣 Commented on [#194](https://github.com/Sarrus1/sourcepawn-vscode/issues/194) in [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode)
-5. ❗️ Opened issue [#194](https://github.com/Sarrus1/sourcepawn-vscode/issues/194) in [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode)
+1. 🗣 Commented on [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
+2. ❗️ Opened issue [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
+3. 🎉 Merged PR [#21](https://github.com/StopModReposts/Extension/pull/21) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
+4. 🗣 Commented on [#2784](https://github.com/flathub/flathub/issues/2784) in [flathub/flathub](https://github.com/flathub/flathub)
+5. 🗣 Commented on [#194](https://github.com/Sarrus1/sourcepawn-vscode/issues/194) in [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
