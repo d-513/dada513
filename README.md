@@ -44,9 +44,9 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#463](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/463) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-2. 🗣 Commented on [#22](https://github.com/StopModReposts/Extension/issues/22) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
-3. 🗣 Commented on [#2784](https://github.com/flathub/flathub/issues/2784) in [flathub/flathub](https://github.com/flathub/flathub)
-4. 🗣 Commented on [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
+2. 🗣 Commented on [#463](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/463) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+3. 🗣 Commented on [#22](https://github.com/StopModReposts/Extension/issues/22) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
+4. 🗣 Commented on [#2784](https://github.com/flathub/flathub/issues/2784) in [flathub/flathub](https://github.com/flathub/flathub)
 5. 🗣 Commented on [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
 <!--END_SECTION:activity-->
 
