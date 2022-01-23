@@ -43,11 +43,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
+1. 🗣 Commented on [#2784](https://github.com/flathub/flathub/issues/2784) in [flathub/flathub](https://github.com/flathub/flathub)
 2. 🗣 Commented on [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
-3. ❗️ Opened issue [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
-4. 🎉 Merged PR [#21](https://github.com/StopModReposts/Extension/pull/21) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
-5. 🗣 Commented on [#2784](https://github.com/flathub/flathub/issues/2784) in [flathub/flathub](https://github.com/flathub/flathub)
+3. 🗣 Commented on [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
+4. 🗣 Commented on [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
+5. ❗️ Opened issue [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
