@@ -43,11 +43,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#415](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/415) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-2. 🗣 Commented on [#467](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/467) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-3. 💪 Opened PR [#96](https://github.com/PolyMC/PolyMC/pull/96) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-4. 🗣 Commented on [#268](https://github.com/flathub/flatpak-external-data-checker/issues/268) in [flathub/flatpak-external-data-checker](https://github.com/flathub/flatpak-external-data-checker)
-5. 🗣 Commented on [#426](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/426) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+1. 🗣 Commented on [#22](https://github.com/StopModReposts/Extension/issues/22) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
+2. 🎉 Merged PR [#26](https://github.com/StopModReposts/Extension/pull/26) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
+3. 🗣 Commented on [#444](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/444) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+4. 🗣 Commented on [#276](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/276) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+5. 🗣 Commented on [#336](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/336) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
 <!--END_SECTION:activity-->
 
 ## 🔌 Current Projects
