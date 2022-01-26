@@ -49,7 +49,3 @@
 4. ❌ Closed PR [#467](https://github.com/StopModReposts/Illegal-Mod-Sites/pull/467) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
 5. 🗣 Commented on [#467](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/467) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
 <!--END_SECTION:activity-->
-
-## 🔌 Current Projects
-
-- [BotCommander](https://github.com/dada513/botcommander) - A framework for creating discord bots
