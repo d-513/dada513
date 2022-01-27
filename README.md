@@ -44,8 +44,8 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#102](https://github.com/PolyMC/PolyMC/issues/102) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-2. 💪 Opened PR [#102](https://github.com/PolyMC/PolyMC/pull/102) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. 🗣 Commented on [#93](https://github.com/PolyMC/PolyMC/issues/93) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-4. 🗣 Commented on [#13](https://github.com/diamondburned/gotk4-examples/issues/13) in [diamondburned/gotk4-examples](https://github.com/diamondburned/gotk4-examples)
-5. ❗️ Opened issue [#13](https://github.com/diamondburned/gotk4-examples/issues/13) in [diamondburned/gotk4-examples](https://github.com/diamondburned/gotk4-examples)
+2. 🗣 Commented on [#102](https://github.com/PolyMC/PolyMC/issues/102) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. 💪 Opened PR [#102](https://github.com/PolyMC/PolyMC/pull/102) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+4. 🗣 Commented on [#93](https://github.com/PolyMC/PolyMC/issues/93) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 🗣 Commented on [#13](https://github.com/diamondburned/gotk4-examples/issues/13) in [diamondburned/gotk4-examples](https://github.com/diamondburned/gotk4-examples)
 <!--END_SECTION:activity-->
