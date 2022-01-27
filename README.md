@@ -45,7 +45,7 @@
 
 1. 🗣 Commented on [#75](https://github.com/PolyMC/PolyMC/issues/75) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 2. 🗣 Commented on [#75](https://github.com/PolyMC/PolyMC/issues/75) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. 🗣 Commented on [#104](https://github.com/PolyMC/PolyMC/issues/104) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. 🗣 Commented on [#75](https://github.com/PolyMC/PolyMC/issues/75) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 4. 🗣 Commented on [#104](https://github.com/PolyMC/PolyMC/issues/104) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 5. 🗣 Commented on [#104](https://github.com/PolyMC/PolyMC/issues/104) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 <!--END_SECTION:activity-->
