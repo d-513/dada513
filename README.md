@@ -43,9 +43,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/flathub/org.polymc.PolyMC/issues/7) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
-2. 🗣 Commented on [#60](https://github.com/PolyMC/PolyMC/issues/60) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-3. 🗣 Commented on [#7](https://github.com/flathub/org.polymc.PolyMC/issues/7) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
-4. 🗣 Commented on [#104](https://github.com/PolyMC/PolyMC/issues/104) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-5. 🗣 Commented on [#102](https://github.com/PolyMC/PolyMC/issues/102) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. 🗣 Commented on [#104](https://github.com/PolyMC/PolyMC/issues/104) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+2. 🗣 Commented on [#102](https://github.com/PolyMC/PolyMC/issues/102) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. 🗣 Commented on [#104](https://github.com/PolyMC/PolyMC/issues/104) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+4. 🗣 Commented on [#102](https://github.com/PolyMC/PolyMC/issues/102) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 🗣 Commented on [#110](https://github.com/PolyMC/PolyMC/issues/110) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
 <!--END_SECTION:activity-->
