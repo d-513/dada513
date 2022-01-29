@@ -43,9 +43,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#110](https://github.com/PolyMC/PolyMC/issues/110) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-2. ❌ Closed PR [#28](https://github.com/StopModReposts/Extension/pull/28) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
-3. 🗣 Commented on [#28](https://github.com/StopModReposts/Extension/issues/28) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
-4. 🎉 Merged PR [#27](https://github.com/StopModReposts/Extension/pull/27) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
-5. 🗣 Commented on [#104](https://github.com/PolyMC/PolyMC/issues/104) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. 🗣 Commented on [#104](https://github.com/PolyMC/PolyMC/issues/104) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+2. 🗣 Commented on [#102](https://github.com/PolyMC/PolyMC/issues/102) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+3. ❗️ Opened issue [#110](https://github.com/PolyMC/PolyMC/issues/110) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+4. ❌ Closed PR [#28](https://github.com/StopModReposts/Extension/pull/28) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
+5. 🗣 Commented on [#28](https://github.com/StopModReposts/Extension/issues/28) in [StopModReposts/Extension](https://github.com/StopModReposts/Extension)
 <!--END_SECTION:activity-->
