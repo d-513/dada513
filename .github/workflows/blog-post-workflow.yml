@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: "do nothing because I don't post anything to blog"
 on:
   schedule: # Run workflow automatically
     - cron: "0 * * * *" # Runs every hour, on the hour
