@@ -43,9 +43,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Reopened issue [#472](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/472) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-2. 🗣 Commented on [#472](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/472) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+1. 🗣 Commented on [#116](https://github.com/PolyMC/PolyMC/issues/116) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+2. ❗️ Reopened issue [#472](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/472) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
 3. 🗣 Commented on [#472](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/472) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
-4. 🗣 Commented on [#7](https://github.com/flathub/org.polymc.PolyMC/issues/7) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
-5. 🗣 Commented on [#84](https://github.com/PolyMC/PolyMC/issues/84) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+4. 🗣 Commented on [#472](https://github.com/StopModReposts/Illegal-Mod-Sites/issues/472) in [StopModReposts/Illegal-Mod-Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
+5. 🗣 Commented on [#7](https://github.com/flathub/org.polymc.PolyMC/issues/7) in [flathub/org.polymc.PolyMC](https://github.com/flathub/org.polymc.PolyMC)
 <!--END_SECTION:activity-->
