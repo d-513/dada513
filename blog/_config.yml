@@ -27,6 +27,11 @@ github_username: dada513
 
 # Build settings
 theme: minima
+include: ".well-known"
+defaults:
+  - scope:
+      path: ".well-known"
+    values:
 
 plugins:
   - jekyll-feed
