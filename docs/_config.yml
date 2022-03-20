@@ -26,7 +26,7 @@ url: "https://d513.space" # the base hostname & protocol for your site, e.g. htt
 github_username: dada513
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 include: ".well-known"
 defaults:
   - scope:
